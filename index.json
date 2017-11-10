@@ -81,7 +81,7 @@
       "142":"Norman-McLaren",
       "151":"Saint-Léonard-Est",
       "152":"Saint-Léonard-Ouest",
-      "161":"Saint-Henri—Petite-Bourgogne—Pointe-Saint-Charles",
+      "161":"Saint-Henri-Est–Petite-Bourgogne–Pointe-Saint-Charles–Griffintown",
       "162":"Saint-Paul—Émard",
       "171":"Champlain—L'Île-des-Soeurs",
       "172":"Desmarchais-Crawford",
@@ -600,13 +600,13 @@
       },
       "16,10":{
          "type":"CV",
-         "nom":"Conseiller de la ville - District électoral de Saint-Henri–La Petite-Bourgogne–Pointe-Saint-Charles",
+         "nom":"Conseiller de la ville - District électoral de Saint-Henri-Est–Petite-Bourgogne–Pointe-Saint-Charles–Griffintown",
          "arrondissement":"16",
          "district":"161"
       },
       "16,11":{
          "type":"CA",
-         "nom":"Conseiller d'arrondissement - District électoral de Saint-Henri–La Petite-Bourgogne–Pointe-Saint-Charles",
+         "nom":"Conseiller d'arrondissement - District électoral de Saint-Henri-Est–Petite-Bourgogne–Pointe-Saint-Charles–Griffintown",
          "arrondissement":"16",
          "district":"161"
       },
