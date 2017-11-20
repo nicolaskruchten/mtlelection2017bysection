@@ -156,9 +156,6 @@
           partyIn = $("#party").val();
           postIn = $("#post").val();
           geoIn = $("#geo").val();
-          if (window.ga != null) {
-            ga('send', 'pageview', '/' + partyIn + "~" + postIn + "~" + geoIn);
-          }
           if (history.replaceState) {
             history.replaceState(null, null, '#' + partyIn + "~" + postIn + "~" + geoIn);
           }
